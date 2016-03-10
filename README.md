@@ -1,2 +1,2 @@
 # Git-GitHub---Partie-2
-Actiité Openclasroom
+Activité Openclasroom (il manquait le "v" de "Activité")
